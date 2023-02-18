@@ -1,3 +1,12 @@
+# Μέλη οργανισμού:
+| # | ΑΜ | Ονοματεπώνυμο | GitHub profile |
+| -- | -- | -- | -- |
+| 1 | Π2006041 | Έλενα Βέργου | [elenberg-io](https://github.com/elenberg-io) |
+| 2 | Π2019052 | Ιωάννα Παγούνη | [p19pago](https://github.com/p19pago) |
+| 3 | Π2012051 | Μάριος Νάνος | [MariosNanos1](https://github.com/MariosNanos1) |
+| 4 | Π2019122 | Αθανάσιος Δημητρίου | [AthanasiosDimitriou](https://github.com/AthanasiosDimitriou) |
+| 5 | Π2013129 | Χρήστος Παπασαραφιανός | [p13papa4](https://github.com/p13papa4) |
+
 # Website for Making Interactivity book
 
 This website is served from Netlify and it is based on the [minimal-mistakes theme](https://github.com/mmistakes/minimal-mistakes), ~which is dynamically imported on every build with the [jekyll-remote-theme](https://github.com/benbalter/jekyll-remote-theme) plug-in~
